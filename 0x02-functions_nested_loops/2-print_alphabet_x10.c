@@ -13,9 +13,9 @@ void print_alphabet_x10(void)
 
 {
 
-char c, i;
+char
 
-':'wq
+';'wq
 
 
 for (i = 0; i <= 9; i++)
